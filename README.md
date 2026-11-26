@@ -15,7 +15,7 @@ I enjoy building practical projects and continuously developing my technical ski
 
 ### 🔐 Featured Project
 
-**CyberHide – Secure Image Steganography**
+**CyberHide – Secure Image Steganography** 
 
 A Python application that hides encrypted messages inside images using AES-256-GCM encryption and LSB steganography.
 

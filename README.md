@@ -32,7 +32,7 @@ A Python application that hides encrypted messages inside images using AES-256-G
 ### 📫 Connect With Me
 
 - [GitHub](https://github.com/yousofmuntisir-ux)
-- - [LinkedIn](https://www.linkedin.com/in/muntisir-yousof-04898231a/)
+- [LinkedIn](https://www.linkedin.com/in/muntisir-yousof-04898231a/)
 
 ---
 
